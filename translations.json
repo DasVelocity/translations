@@ -1,0 +1,24 @@
+{
+    "NoAcceleration": {
+        "English": {
+            "Text": "Instant Acceleration",
+            "Tooltip": "Removes slow-down when changing direction."
+        },
+        "Dutch": {
+            "Text": "Directe Versnelling",
+            "Tooltip": "Verwijdert vertraging bij het veranderen van richting."
+        },
+        "French": {
+            "Text": "Accélération Instantanée",
+            "Tooltip": "Supprime le ralentissement lors du changement de direction."
+        },
+        "German": {
+            "Text": "Sofortige Beschleunigung",
+            "Tooltip": "Entfernt das Abbremsen beim Richtungswechsel."
+        },
+        "Russian": {
+            "Text": "Мгновенное Ускорение",
+            "Tooltip": "Убирает замедление при смене направления."
+        }
+    }
+}
