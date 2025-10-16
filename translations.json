@@ -1,14 +1,15 @@
 {
     "English": {
-        "ButtonName": "Click Me",
+        "anti_void_death": "Click Me",
         "ToggleName": "Enable Feature"
     },
     "Dutch": {
-        "ButtonName": "Klik Mij",
+        "anti_void_death": "Klik Mij",
         "ToggleName": "Functie Inschakelen"
     },
     "French": {
-        "ButtonName": "Cliquez Moi",
+        "anti_void_death": "Cliquez Moi",
         "ToggleName": "Activer la Fonction"
     }
 }
+
