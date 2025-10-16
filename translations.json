@@ -59,7 +59,7 @@
         "SpeedBypassLabel": "Speed Bypass: Inactive",
         "CustomWalkSpeedCheckbox": "Custom Walk Speed",
         "CustomWalkSpeedTooltip": "Changes your walking speed to the set value.",
-        "InstantAccelerationCheckbox": "Instant Acceleration",
+        "NoAcceleration": "Instant Acceleration",
         "InstantAccelerationTooltip": "Removes slow-down when changing direction.",
         "WalkSpeedValueSlider": "Walk Speed Value",
         "WalkSpeedValueTooltip": "Sets how fast you walk.",
@@ -1020,3 +1020,4 @@
         "Watermark": "Velocity X | {fps} FPS | Por Velocity | {ping} ping | v2.7"
     }
 }
+
